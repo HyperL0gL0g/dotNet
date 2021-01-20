@@ -1,0 +1,12 @@
+D:\dotnet lab assignments\lab3\lab3-1\lab3 q1\participantslib\bin\Debug\participantslib.dll
+D:\dotnet lab assignments\lab3\lab3-1\lab3 q1\participantslib\bin\Debug\participantslib.pdb
+D:\dotnet lab assignments\lab3\lab3-1\lab3 q1\participantslib\obj\Debug\participantslib.csprojAssemblyReference.cache
+D:\dotnet lab assignments\lab3\lab3-1\lab3 q1\participantslib\obj\Debug\participantslib.csproj.CoreCompileInputs.cache
+D:\dotnet lab assignments\lab3\lab3-1\lab3 q1\participantslib\obj\Debug\participantslib.dll
+D:\dotnet lab assignments\lab3\lab3-1\lab3 q1\participantslib\obj\Debug\participantslib.pdb
+C:\Users\KIIT\Downloads\Lab 3\lab3 q1\participantslib\bin\Debug\participantslib.dll
+C:\Users\KIIT\Downloads\Lab 3\lab3 q1\participantslib\bin\Debug\participantslib.pdb
+C:\Users\KIIT\Downloads\Lab 3\lab3 q1\participantslib\obj\Debug\participantslib.csprojAssemblyReference.cache
+C:\Users\KIIT\Downloads\Lab 3\lab3 q1\participantslib\obj\Debug\participantslib.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Downloads\Lab 3\lab3 q1\participantslib\obj\Debug\participantslib.dll
+C:\Users\KIIT\Downloads\Lab 3\lab3 q1\participantslib\obj\Debug\participantslib.pdb

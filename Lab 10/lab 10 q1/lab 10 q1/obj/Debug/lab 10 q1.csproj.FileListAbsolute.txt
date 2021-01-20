@@ -1,0 +1,14 @@
+D:\dotnet lab assignments\Lab 10\lab 10 q1\lab 10 q1\bin\Debug\lab 10 q1.exe.config
+D:\dotnet lab assignments\Lab 10\lab 10 q1\lab 10 q1\bin\Debug\lab 10 q1.exe
+D:\dotnet lab assignments\Lab 10\lab 10 q1\lab 10 q1\bin\Debug\lab 10 q1.pdb
+D:\dotnet lab assignments\Lab 10\lab 10 q1\lab 10 q1\obj\Debug\lab 10 q1.csprojAssemblyReference.cache
+D:\dotnet lab assignments\Lab 10\lab 10 q1\lab 10 q1\obj\Debug\lab 10 q1.csproj.CoreCompileInputs.cache
+D:\dotnet lab assignments\Lab 10\lab 10 q1\lab 10 q1\obj\Debug\lab 10 q1.exe
+D:\dotnet lab assignments\Lab 10\lab 10 q1\lab 10 q1\obj\Debug\lab 10 q1.pdb
+D:\CAPGEMINI\Lab 10\lab 10 q1\lab 10 q1\bin\Debug\lab 10 q1.exe.config
+D:\CAPGEMINI\Lab 10\lab 10 q1\lab 10 q1\bin\Debug\lab 10 q1.exe
+D:\CAPGEMINI\Lab 10\lab 10 q1\lab 10 q1\bin\Debug\lab 10 q1.pdb
+D:\CAPGEMINI\Lab 10\lab 10 q1\lab 10 q1\obj\Debug\lab 10 q1.csprojAssemblyReference.cache
+D:\CAPGEMINI\Lab 10\lab 10 q1\lab 10 q1\obj\Debug\lab 10 q1.csproj.CoreCompileInputs.cache
+D:\CAPGEMINI\Lab 10\lab 10 q1\lab 10 q1\obj\Debug\lab 10 q1.exe
+D:\CAPGEMINI\Lab 10\lab 10 q1\lab 10 q1\obj\Debug\lab 10 q1.pdb

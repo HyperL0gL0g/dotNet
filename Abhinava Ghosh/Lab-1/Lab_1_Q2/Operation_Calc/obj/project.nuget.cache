@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7tcsf3q53pfcIPdtxsq+iiN0fLi3i/bwgSGDLQHPyaRL6Li/WVNgFlQ+xCoIdFP78cVqhD9stMu9khON3fPY+Q==",
+  "success": true,
+  "projectFilePath": "D:\\CAPGEMINI\\Abhinava Ghosh\\Lab-1\\Lab_1_Q2\\Operation_Calc\\Operation_Calc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KIIT\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\KIIT\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

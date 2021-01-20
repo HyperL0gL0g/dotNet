@@ -1,0 +1,18 @@
+E:\Day_1_Calc\Operation_Calc\bin\Debug\netstandard2.0\Operation_Calc.deps.json
+E:\Day_1_Calc\Operation_Calc\bin\Debug\netstandard2.0\Operation_Calc.dll
+E:\Day_1_Calc\Operation_Calc\bin\Debug\netstandard2.0\Operation_Calc.pdb
+E:\Day_1_Calc\Operation_Calc\obj\Debug\netstandard2.0\Operation_Calc.csprojAssemblyReference.cache
+E:\Day_1_Calc\Operation_Calc\obj\Debug\netstandard2.0\Operation_Calc.AssemblyInfoInputs.cache
+E:\Day_1_Calc\Operation_Calc\obj\Debug\netstandard2.0\Operation_Calc.AssemblyInfo.cs
+E:\Day_1_Calc\Operation_Calc\obj\Debug\netstandard2.0\Operation_Calc.csproj.CoreCompileInputs.cache
+E:\Day_1_Calc\Operation_Calc\obj\Debug\netstandard2.0\Operation_Calc.dll
+E:\Day_1_Calc\Operation_Calc\obj\Debug\netstandard2.0\Operation_Calc.pdb
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_1_Q2\Operation_Calc\bin\Debug\netstandard2.0\Operation_Calc.deps.json
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_1_Q2\Operation_Calc\bin\Debug\netstandard2.0\Operation_Calc.dll
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_1_Q2\Operation_Calc\bin\Debug\netstandard2.0\Operation_Calc.pdb
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_1_Q2\Operation_Calc\obj\Debug\netstandard2.0\Operation_Calc.csprojAssemblyReference.cache
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_1_Q2\Operation_Calc\obj\Debug\netstandard2.0\Operation_Calc.AssemblyInfoInputs.cache
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_1_Q2\Operation_Calc\obj\Debug\netstandard2.0\Operation_Calc.AssemblyInfo.cs
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_1_Q2\Operation_Calc\obj\Debug\netstandard2.0\Operation_Calc.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_1_Q2\Operation_Calc\obj\Debug\netstandard2.0\Operation_Calc.dll
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_1_Q2\Operation_Calc\obj\Debug\netstandard2.0\Operation_Calc.pdb

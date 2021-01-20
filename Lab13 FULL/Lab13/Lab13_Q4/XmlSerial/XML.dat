@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Supplier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <supplierId>1</supplierId>
+  <supplierName>anish</supplierName>
+  <city>ktm</city>
+  <phoneNo>12312312</phoneNo>
+  <email>asdasd</email>
+</Supplier>

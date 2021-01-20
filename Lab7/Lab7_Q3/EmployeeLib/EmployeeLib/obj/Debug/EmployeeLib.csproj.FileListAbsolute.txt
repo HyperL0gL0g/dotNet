@@ -1,0 +1,6 @@
+D:\TrainingCap\Lab7\Lab7_Q3\EmployeeLib\EmployeeLib\bin\Debug\EmployeeLib.dll
+D:\TrainingCap\Lab7\Lab7_Q3\EmployeeLib\EmployeeLib\bin\Debug\EmployeeLib.pdb
+D:\TrainingCap\Lab7\Lab7_Q3\EmployeeLib\EmployeeLib\obj\Debug\EmployeeLib.csprojAssemblyReference.cache
+D:\TrainingCap\Lab7\Lab7_Q3\EmployeeLib\EmployeeLib\obj\Debug\EmployeeLib.csproj.CoreCompileInputs.cache
+D:\TrainingCap\Lab7\Lab7_Q3\EmployeeLib\EmployeeLib\obj\Debug\EmployeeLib.dll
+D:\TrainingCap\Lab7\Lab7_Q3\EmployeeLib\EmployeeLib\obj\Debug\EmployeeLib.pdb

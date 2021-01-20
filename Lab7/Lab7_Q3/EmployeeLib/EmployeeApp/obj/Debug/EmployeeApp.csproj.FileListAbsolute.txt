@@ -1,0 +1,10 @@
+D:\TrainingCap\Lab7\Lab7_Q3\EmployeeLib\EmployeeApp\bin\Debug\EmployeeApp.exe.config
+D:\TrainingCap\Lab7\Lab7_Q3\EmployeeLib\EmployeeApp\bin\Debug\EmployeeApp.exe
+D:\TrainingCap\Lab7\Lab7_Q3\EmployeeLib\EmployeeApp\bin\Debug\EmployeeApp.pdb
+D:\TrainingCap\Lab7\Lab7_Q3\EmployeeLib\EmployeeApp\bin\Debug\EmployeeLib.dll
+D:\TrainingCap\Lab7\Lab7_Q3\EmployeeLib\EmployeeApp\bin\Debug\EmployeeLib.pdb
+D:\TrainingCap\Lab7\Lab7_Q3\EmployeeLib\EmployeeApp\obj\Debug\EmployeeApp.csprojAssemblyReference.cache
+D:\TrainingCap\Lab7\Lab7_Q3\EmployeeLib\EmployeeApp\obj\Debug\EmployeeApp.csproj.CoreCompileInputs.cache
+D:\TrainingCap\Lab7\Lab7_Q3\EmployeeLib\EmployeeApp\obj\Debug\EmployeeApp.csproj.CopyComplete
+D:\TrainingCap\Lab7\Lab7_Q3\EmployeeLib\EmployeeApp\obj\Debug\EmployeeApp.exe
+D:\TrainingCap\Lab7\Lab7_Q3\EmployeeLib\EmployeeApp\obj\Debug\EmployeeApp.pdb

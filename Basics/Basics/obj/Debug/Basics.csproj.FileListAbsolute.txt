@@ -1,0 +1,7 @@
+C:\Users\KIIT\source\repos\Basics\Basics\bin\Debug\Basics.exe.config
+C:\Users\KIIT\source\repos\Basics\Basics\bin\Debug\Basics.exe
+C:\Users\KIIT\source\repos\Basics\Basics\bin\Debug\Basics.pdb
+C:\Users\KIIT\source\repos\Basics\Basics\obj\Debug\Basics.csprojAssemblyReference.cache
+C:\Users\KIIT\source\repos\Basics\Basics\obj\Debug\Basics.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\source\repos\Basics\Basics\obj\Debug\Basics.exe
+C:\Users\KIIT\source\repos\Basics\Basics\obj\Debug\Basics.pdb

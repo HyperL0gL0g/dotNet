@@ -1,0 +1,14 @@
+D:\TrainingCap\Lab9\Lab9_Q1\DictionaryApp\DictionaryApp\bin\Debug\DictionaryApp.exe.config
+D:\TrainingCap\Lab9\Lab9_Q1\DictionaryApp\DictionaryApp\bin\Debug\DictionaryApp.exe
+D:\TrainingCap\Lab9\Lab9_Q1\DictionaryApp\DictionaryApp\bin\Debug\DictionaryApp.pdb
+D:\TrainingCap\Lab9\Lab9_Q1\DictionaryApp\DictionaryApp\obj\Debug\DictionaryApp.csprojAssemblyReference.cache
+D:\TrainingCap\Lab9\Lab9_Q1\DictionaryApp\DictionaryApp\obj\Debug\DictionaryApp.csproj.CoreCompileInputs.cache
+D:\TrainingCap\Lab9\Lab9_Q1\DictionaryApp\DictionaryApp\obj\Debug\DictionaryApp.exe
+D:\TrainingCap\Lab9\Lab9_Q1\DictionaryApp\DictionaryApp\obj\Debug\DictionaryApp.pdb
+D:\CAPGEMINI\Lab9\Lab9_Q1\DictionaryApp\DictionaryApp\bin\Debug\DictionaryApp.exe.config
+D:\CAPGEMINI\Lab9\Lab9_Q1\DictionaryApp\DictionaryApp\bin\Debug\DictionaryApp.exe
+D:\CAPGEMINI\Lab9\Lab9_Q1\DictionaryApp\DictionaryApp\bin\Debug\DictionaryApp.pdb
+D:\CAPGEMINI\Lab9\Lab9_Q1\DictionaryApp\DictionaryApp\obj\Debug\DictionaryApp.csprojAssemblyReference.cache
+D:\CAPGEMINI\Lab9\Lab9_Q1\DictionaryApp\DictionaryApp\obj\Debug\DictionaryApp.csproj.CoreCompileInputs.cache
+D:\CAPGEMINI\Lab9\Lab9_Q1\DictionaryApp\DictionaryApp\obj\Debug\DictionaryApp.exe
+D:\CAPGEMINI\Lab9\Lab9_Q1\DictionaryApp\DictionaryApp\obj\Debug\DictionaryApp.pdb

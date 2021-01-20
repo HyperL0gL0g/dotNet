@@ -1,0 +1,14 @@
+D:\TrainingCap\Lab12\Lab12_Q3\AcademyApp\AcademyApp\bin\Debug\AcademyApp.exe.config
+D:\TrainingCap\Lab12\Lab12_Q3\AcademyApp\AcademyApp\bin\Debug\AcademyApp.exe
+D:\TrainingCap\Lab12\Lab12_Q3\AcademyApp\AcademyApp\bin\Debug\AcademyApp.pdb
+D:\TrainingCap\Lab12\Lab12_Q3\AcademyApp\AcademyApp\obj\Debug\AcademyApp.csprojAssemblyReference.cache
+D:\TrainingCap\Lab12\Lab12_Q3\AcademyApp\AcademyApp\obj\Debug\AcademyApp.csproj.CoreCompileInputs.cache
+D:\TrainingCap\Lab12\Lab12_Q3\AcademyApp\AcademyApp\obj\Debug\AcademyApp.exe
+D:\TrainingCap\Lab12\Lab12_Q3\AcademyApp\AcademyApp\obj\Debug\AcademyApp.pdb
+C:\Users\KIIT\Downloads\Lab12\Lab12_Q3\AcademyApp\AcademyApp\bin\Debug\AcademyApp.exe.config
+C:\Users\KIIT\Downloads\Lab12\Lab12_Q3\AcademyApp\AcademyApp\bin\Debug\AcademyApp.exe
+C:\Users\KIIT\Downloads\Lab12\Lab12_Q3\AcademyApp\AcademyApp\bin\Debug\AcademyApp.pdb
+C:\Users\KIIT\Downloads\Lab12\Lab12_Q3\AcademyApp\AcademyApp\obj\Debug\AcademyApp.csprojAssemblyReference.cache
+C:\Users\KIIT\Downloads\Lab12\Lab12_Q3\AcademyApp\AcademyApp\obj\Debug\AcademyApp.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Downloads\Lab12\Lab12_Q3\AcademyApp\AcademyApp\obj\Debug\AcademyApp.exe
+C:\Users\KIIT\Downloads\Lab12\Lab12_Q3\AcademyApp\AcademyApp\obj\Debug\AcademyApp.pdb

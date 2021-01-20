@@ -1,0 +1,14 @@
+D:\TrainingCap\Lab12\Lab12_Q2\FileCopyApp\FileCopyApp\bin\Debug\FileCopyApp.exe.config
+D:\TrainingCap\Lab12\Lab12_Q2\FileCopyApp\FileCopyApp\bin\Debug\FileCopyApp.exe
+D:\TrainingCap\Lab12\Lab12_Q2\FileCopyApp\FileCopyApp\bin\Debug\FileCopyApp.pdb
+D:\TrainingCap\Lab12\Lab12_Q2\FileCopyApp\FileCopyApp\obj\Debug\FileCopyApp.csprojAssemblyReference.cache
+D:\TrainingCap\Lab12\Lab12_Q2\FileCopyApp\FileCopyApp\obj\Debug\FileCopyApp.csproj.CoreCompileInputs.cache
+D:\TrainingCap\Lab12\Lab12_Q2\FileCopyApp\FileCopyApp\obj\Debug\FileCopyApp.exe
+D:\TrainingCap\Lab12\Lab12_Q2\FileCopyApp\FileCopyApp\obj\Debug\FileCopyApp.pdb
+C:\Users\KIIT\Downloads\Lab12\Lab12_Q2\FileCopyApp\FileCopyApp\bin\Debug\FileCopyApp.exe.config
+C:\Users\KIIT\Downloads\Lab12\Lab12_Q2\FileCopyApp\FileCopyApp\bin\Debug\FileCopyApp.exe
+C:\Users\KIIT\Downloads\Lab12\Lab12_Q2\FileCopyApp\FileCopyApp\bin\Debug\FileCopyApp.pdb
+C:\Users\KIIT\Downloads\Lab12\Lab12_Q2\FileCopyApp\FileCopyApp\obj\Debug\FileCopyApp.csprojAssemblyReference.cache
+C:\Users\KIIT\Downloads\Lab12\Lab12_Q2\FileCopyApp\FileCopyApp\obj\Debug\FileCopyApp.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Downloads\Lab12\Lab12_Q2\FileCopyApp\FileCopyApp\obj\Debug\FileCopyApp.exe
+C:\Users\KIIT\Downloads\Lab12\Lab12_Q2\FileCopyApp\FileCopyApp\obj\Debug\FileCopyApp.pdb

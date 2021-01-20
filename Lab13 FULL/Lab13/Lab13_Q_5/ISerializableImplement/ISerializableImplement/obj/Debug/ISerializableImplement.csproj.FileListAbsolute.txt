@@ -1,0 +1,14 @@
+D:\TrainingCap\Lab13\Lab13_Q_5\ISerializableImplement\ISerializableImplement\bin\Debug\ISerializableImplement.exe.config
+D:\TrainingCap\Lab13\Lab13_Q_5\ISerializableImplement\ISerializableImplement\bin\Debug\ISerializableImplement.exe
+D:\TrainingCap\Lab13\Lab13_Q_5\ISerializableImplement\ISerializableImplement\bin\Debug\ISerializableImplement.pdb
+D:\TrainingCap\Lab13\Lab13_Q_5\ISerializableImplement\ISerializableImplement\obj\Debug\ISerializableImplement.csprojAssemblyReference.cache
+D:\TrainingCap\Lab13\Lab13_Q_5\ISerializableImplement\ISerializableImplement\obj\Debug\ISerializableImplement.csproj.CoreCompileInputs.cache
+D:\TrainingCap\Lab13\Lab13_Q_5\ISerializableImplement\ISerializableImplement\obj\Debug\ISerializableImplement.exe
+D:\TrainingCap\Lab13\Lab13_Q_5\ISerializableImplement\ISerializableImplement\obj\Debug\ISerializableImplement.pdb
+C:\Users\KIIT\Downloads\Lab13\Lab13\Lab13_Q_5\ISerializableImplement\ISerializableImplement\bin\Debug\ISerializableImplement.exe.config
+C:\Users\KIIT\Downloads\Lab13\Lab13\Lab13_Q_5\ISerializableImplement\ISerializableImplement\bin\Debug\ISerializableImplement.exe
+C:\Users\KIIT\Downloads\Lab13\Lab13\Lab13_Q_5\ISerializableImplement\ISerializableImplement\bin\Debug\ISerializableImplement.pdb
+C:\Users\KIIT\Downloads\Lab13\Lab13\Lab13_Q_5\ISerializableImplement\ISerializableImplement\obj\Debug\ISerializableImplement.csprojAssemblyReference.cache
+C:\Users\KIIT\Downloads\Lab13\Lab13\Lab13_Q_5\ISerializableImplement\ISerializableImplement\obj\Debug\ISerializableImplement.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Downloads\Lab13\Lab13\Lab13_Q_5\ISerializableImplement\ISerializableImplement\obj\Debug\ISerializableImplement.exe
+C:\Users\KIIT\Downloads\Lab13\Lab13\Lab13_Q_5\ISerializableImplement\ISerializableImplement\obj\Debug\ISerializableImplement.pdb

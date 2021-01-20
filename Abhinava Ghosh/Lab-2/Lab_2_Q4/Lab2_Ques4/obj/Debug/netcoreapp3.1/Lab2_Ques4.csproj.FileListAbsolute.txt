@@ -1,0 +1,26 @@
+E:\C# assign\Lab_2_Q4\Lab2_Ques4\bin\Debug\netcoreapp3.1\Lab2_Ques4.exe
+E:\C# assign\Lab_2_Q4\Lab2_Ques4\bin\Debug\netcoreapp3.1\Lab2_Ques4.deps.json
+E:\C# assign\Lab_2_Q4\Lab2_Ques4\bin\Debug\netcoreapp3.1\Lab2_Ques4.runtimeconfig.json
+E:\C# assign\Lab_2_Q4\Lab2_Ques4\bin\Debug\netcoreapp3.1\Lab2_Ques4.runtimeconfig.dev.json
+E:\C# assign\Lab_2_Q4\Lab2_Ques4\bin\Debug\netcoreapp3.1\Lab2_Ques4.dll
+E:\C# assign\Lab_2_Q4\Lab2_Ques4\bin\Debug\netcoreapp3.1\Lab2_Ques4.pdb
+E:\C# assign\Lab_2_Q4\Lab2_Ques4\obj\Debug\netcoreapp3.1\Lab2_Ques4.csprojAssemblyReference.cache
+E:\C# assign\Lab_2_Q4\Lab2_Ques4\obj\Debug\netcoreapp3.1\Lab2_Ques4.AssemblyInfoInputs.cache
+E:\C# assign\Lab_2_Q4\Lab2_Ques4\obj\Debug\netcoreapp3.1\Lab2_Ques4.AssemblyInfo.cs
+E:\C# assign\Lab_2_Q4\Lab2_Ques4\obj\Debug\netcoreapp3.1\Lab2_Ques4.csproj.CoreCompileInputs.cache
+E:\C# assign\Lab_2_Q4\Lab2_Ques4\obj\Debug\netcoreapp3.1\Lab2_Ques4.dll
+E:\C# assign\Lab_2_Q4\Lab2_Ques4\obj\Debug\netcoreapp3.1\Lab2_Ques4.pdb
+E:\C# assign\Lab_2_Q4\Lab2_Ques4\obj\Debug\netcoreapp3.1\Lab2_Ques4.genruntimeconfig.cache
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_2_Q4\Lab2_Ques4\bin\Debug\netcoreapp3.1\Lab2_Ques4.exe
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_2_Q4\Lab2_Ques4\bin\Debug\netcoreapp3.1\Lab2_Ques4.deps.json
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_2_Q4\Lab2_Ques4\bin\Debug\netcoreapp3.1\Lab2_Ques4.runtimeconfig.json
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_2_Q4\Lab2_Ques4\bin\Debug\netcoreapp3.1\Lab2_Ques4.runtimeconfig.dev.json
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_2_Q4\Lab2_Ques4\bin\Debug\netcoreapp3.1\Lab2_Ques4.dll
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_2_Q4\Lab2_Ques4\bin\Debug\netcoreapp3.1\Lab2_Ques4.pdb
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_2_Q4\Lab2_Ques4\obj\Debug\netcoreapp3.1\Lab2_Ques4.csprojAssemblyReference.cache
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_2_Q4\Lab2_Ques4\obj\Debug\netcoreapp3.1\Lab2_Ques4.AssemblyInfoInputs.cache
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_2_Q4\Lab2_Ques4\obj\Debug\netcoreapp3.1\Lab2_Ques4.AssemblyInfo.cs
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_2_Q4\Lab2_Ques4\obj\Debug\netcoreapp3.1\Lab2_Ques4.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_2_Q4\Lab2_Ques4\obj\Debug\netcoreapp3.1\Lab2_Ques4.dll
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_2_Q4\Lab2_Ques4\obj\Debug\netcoreapp3.1\Lab2_Ques4.pdb
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_2_Q4\Lab2_Ques4\obj\Debug\netcoreapp3.1\Lab2_Ques4.genruntimeconfig.cache

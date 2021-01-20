@@ -1,0 +1,9 @@
+D:\Nachiket\Study Materials\Module 2\Demos\GuestPhoneBook\GuestPhoneBook.Exceptions\bin\Debug\GuestPhoneBook.Exceptions.dll
+D:\Nachiket\Study Materials\Module 2\Demos\GuestPhoneBook\GuestPhoneBook.Exceptions\bin\Debug\GuestPhoneBook.Exceptions.pdb
+D:\Nachiket\Study Materials\Module 2\Demos\GuestPhoneBook\GuestPhoneBook.Exceptions\obj\Debug\GuestPhoneBook.Exceptions.dll
+D:\Nachiket\Study Materials\Module 2\Demos\GuestPhoneBook\GuestPhoneBook.Exceptions\obj\Debug\GuestPhoneBook.Exceptions.pdb
+D:\DATA\2018\May\Other\M2\GuestPhoneBook\GuestPhoneBook.Exceptions\bin\Debug\GuestPhoneBook.Exceptions.dll
+D:\DATA\2018\May\Other\M2\GuestPhoneBook\GuestPhoneBook.Exceptions\bin\Debug\GuestPhoneBook.Exceptions.pdb
+D:\DATA\2018\May\Other\M2\GuestPhoneBook\GuestPhoneBook.Exceptions\obj\Debug\GuestPhoneBook.Exceptions.csprojResolveAssemblyReference.cache
+D:\DATA\2018\May\Other\M2\GuestPhoneBook\GuestPhoneBook.Exceptions\obj\Debug\GuestPhoneBook.Exceptions.dll
+D:\DATA\2018\May\Other\M2\GuestPhoneBook\GuestPhoneBook.Exceptions\obj\Debug\GuestPhoneBook.Exceptions.pdb

@@ -1,0 +1,10 @@
+D:\Nachiket\Study Materials\Module 2\Demos\GuestPhoneBook\GuestPhoneBook.Entities\bin\Debug\GuestPhoneBook.Entities.dll
+D:\Nachiket\Study Materials\Module 2\Demos\GuestPhoneBook\GuestPhoneBook.Entities\bin\Debug\GuestPhoneBook.Entities.pdb
+D:\Nachiket\Study Materials\Module 2\Demos\GuestPhoneBook\GuestPhoneBook.Entities\obj\Debug\GuestPhoneBook.Entities.csprojResolveAssemblyReference.cache
+D:\Nachiket\Study Materials\Module 2\Demos\GuestPhoneBook\GuestPhoneBook.Entities\obj\Debug\GuestPhoneBook.Entities.dll
+D:\Nachiket\Study Materials\Module 2\Demos\GuestPhoneBook\GuestPhoneBook.Entities\obj\Debug\GuestPhoneBook.Entities.pdb
+D:\DATA\2018\May\Other\M2\GuestPhoneBook\GuestPhoneBook.Entities\bin\Debug\GuestPhoneBook.Entities.dll
+D:\DATA\2018\May\Other\M2\GuestPhoneBook\GuestPhoneBook.Entities\bin\Debug\GuestPhoneBook.Entities.pdb
+D:\DATA\2018\May\Other\M2\GuestPhoneBook\GuestPhoneBook.Entities\obj\Debug\GuestPhoneBook.Entities.csprojResolveAssemblyReference.cache
+D:\DATA\2018\May\Other\M2\GuestPhoneBook\GuestPhoneBook.Entities\obj\Debug\GuestPhoneBook.Entities.dll
+D:\DATA\2018\May\Other\M2\GuestPhoneBook\GuestPhoneBook.Entities\obj\Debug\GuestPhoneBook.Entities.pdb

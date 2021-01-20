@@ -1,0 +1,6 @@
+D:\TrainingCap\Xtra\EmployeeApp\EmployeeApplication\EmployeeApp.Entites\bin\Debug\EmployeeApp.Entites.dll
+D:\TrainingCap\Xtra\EmployeeApp\EmployeeApplication\EmployeeApp.Entites\bin\Debug\EmployeeApp.Entites.pdb
+D:\TrainingCap\Xtra\EmployeeApp\EmployeeApplication\EmployeeApp.Entites\obj\Debug\EmployeeApp.Entites.csprojAssemblyReference.cache
+D:\TrainingCap\Xtra\EmployeeApp\EmployeeApplication\EmployeeApp.Entites\obj\Debug\EmployeeApp.Entites.csproj.CoreCompileInputs.cache
+D:\TrainingCap\Xtra\EmployeeApp\EmployeeApplication\EmployeeApp.Entites\obj\Debug\EmployeeApp.Entites.dll
+D:\TrainingCap\Xtra\EmployeeApp\EmployeeApplication\EmployeeApp.Entites\obj\Debug\EmployeeApp.Entites.pdb

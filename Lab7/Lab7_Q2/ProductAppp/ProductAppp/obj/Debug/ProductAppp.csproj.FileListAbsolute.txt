@@ -1,0 +1,7 @@
+D:\TrainingCap\Lab7\Lab7_Q2\ProductAppp\ProductAppp\bin\Debug\ProductAppp.exe.config
+D:\TrainingCap\Lab7\Lab7_Q2\ProductAppp\ProductAppp\bin\Debug\ProductAppp.exe
+D:\TrainingCap\Lab7\Lab7_Q2\ProductAppp\ProductAppp\bin\Debug\ProductAppp.pdb
+D:\TrainingCap\Lab7\Lab7_Q2\ProductAppp\ProductAppp\obj\Debug\ProductAppp.csprojAssemblyReference.cache
+D:\TrainingCap\Lab7\Lab7_Q2\ProductAppp\ProductAppp\obj\Debug\ProductAppp.csproj.CoreCompileInputs.cache
+D:\TrainingCap\Lab7\Lab7_Q2\ProductAppp\ProductAppp\obj\Debug\ProductAppp.exe
+D:\TrainingCap\Lab7\Lab7_Q2\ProductAppp\ProductAppp\obj\Debug\ProductAppp.pdb

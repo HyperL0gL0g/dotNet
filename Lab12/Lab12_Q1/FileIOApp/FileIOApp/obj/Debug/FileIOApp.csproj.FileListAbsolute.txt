@@ -1,0 +1,14 @@
+D:\TrainingCap\Lab12\Lab12_Q1\FileIOApp\FileIOApp\bin\Debug\FileIOApp.exe.config
+D:\TrainingCap\Lab12\Lab12_Q1\FileIOApp\FileIOApp\bin\Debug\FileIOApp.exe
+D:\TrainingCap\Lab12\Lab12_Q1\FileIOApp\FileIOApp\bin\Debug\FileIOApp.pdb
+D:\TrainingCap\Lab12\Lab12_Q1\FileIOApp\FileIOApp\obj\Debug\FileIOApp.csprojAssemblyReference.cache
+D:\TrainingCap\Lab12\Lab12_Q1\FileIOApp\FileIOApp\obj\Debug\FileIOApp.csproj.CoreCompileInputs.cache
+D:\TrainingCap\Lab12\Lab12_Q1\FileIOApp\FileIOApp\obj\Debug\FileIOApp.exe
+D:\TrainingCap\Lab12\Lab12_Q1\FileIOApp\FileIOApp\obj\Debug\FileIOApp.pdb
+C:\Users\KIIT\Downloads\Lab12\Lab12_Q1\FileIOApp\FileIOApp\bin\Debug\FileIOApp.exe.config
+C:\Users\KIIT\Downloads\Lab12\Lab12_Q1\FileIOApp\FileIOApp\bin\Debug\FileIOApp.exe
+C:\Users\KIIT\Downloads\Lab12\Lab12_Q1\FileIOApp\FileIOApp\bin\Debug\FileIOApp.pdb
+C:\Users\KIIT\Downloads\Lab12\Lab12_Q1\FileIOApp\FileIOApp\obj\Debug\FileIOApp.csprojAssemblyReference.cache
+C:\Users\KIIT\Downloads\Lab12\Lab12_Q1\FileIOApp\FileIOApp\obj\Debug\FileIOApp.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Downloads\Lab12\Lab12_Q1\FileIOApp\FileIOApp\obj\Debug\FileIOApp.exe
+C:\Users\KIIT\Downloads\Lab12\Lab12_Q1\FileIOApp\FileIOApp\obj\Debug\FileIOApp.pdb

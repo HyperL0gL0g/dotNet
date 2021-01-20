@@ -1,0 +1,39 @@
+E:\C# assign\Lab_2_Q5\Lab2_Ques5\bin\Debug\netcoreapp3.1\Lab2_Ques5.exe
+E:\C# assign\Lab_2_Q5\Lab2_Ques5\bin\Debug\netcoreapp3.1\Lab2_Ques5.deps.json
+E:\C# assign\Lab_2_Q5\Lab2_Ques5\bin\Debug\netcoreapp3.1\Lab2_Ques5.runtimeconfig.json
+E:\C# assign\Lab_2_Q5\Lab2_Ques5\bin\Debug\netcoreapp3.1\Lab2_Ques5.runtimeconfig.dev.json
+E:\C# assign\Lab_2_Q5\Lab2_Ques5\bin\Debug\netcoreapp3.1\Lab2_Ques5.dll
+E:\C# assign\Lab_2_Q5\Lab2_Ques5\bin\Debug\netcoreapp3.1\Lab2_Ques5.pdb
+E:\C# assign\Lab_2_Q5\Lab2_Ques5\obj\Debug\netcoreapp3.1\Lab2_Ques5.csprojAssemblyReference.cache
+E:\C# assign\Lab_2_Q5\Lab2_Ques5\obj\Debug\netcoreapp3.1\Lab2_Ques5.AssemblyInfoInputs.cache
+E:\C# assign\Lab_2_Q5\Lab2_Ques5\obj\Debug\netcoreapp3.1\Lab2_Ques5.AssemblyInfo.cs
+E:\C# assign\Lab_2_Q5\Lab2_Ques5\obj\Debug\netcoreapp3.1\Lab2_Ques5.csproj.CoreCompileInputs.cache
+E:\C# assign\Lab_2_Q5\Lab2_Ques5\obj\Debug\netcoreapp3.1\Lab2_Ques5.dll
+E:\C# assign\Lab_2_Q5\Lab2_Ques5\obj\Debug\netcoreapp3.1\Lab2_Ques5.pdb
+E:\C# assign\Lab_2_Q5\Lab2_Ques5\obj\Debug\netcoreapp3.1\Lab2_Ques5.genruntimeconfig.cache
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_2_Q5\Lab2_Ques5\bin\Debug\netcoreapp3.1\Lab2_Ques5.exe
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_2_Q5\Lab2_Ques5\bin\Debug\netcoreapp3.1\Lab2_Ques5.deps.json
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_2_Q5\Lab2_Ques5\bin\Debug\netcoreapp3.1\Lab2_Ques5.runtimeconfig.json
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_2_Q5\Lab2_Ques5\bin\Debug\netcoreapp3.1\Lab2_Ques5.runtimeconfig.dev.json
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_2_Q5\Lab2_Ques5\bin\Debug\netcoreapp3.1\Lab2_Ques5.dll
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_2_Q5\Lab2_Ques5\bin\Debug\netcoreapp3.1\Lab2_Ques5.pdb
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_2_Q5\Lab2_Ques5\obj\Debug\netcoreapp3.1\Lab2_Ques5.csprojAssemblyReference.cache
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_2_Q5\Lab2_Ques5\obj\Debug\netcoreapp3.1\Lab2_Ques5.AssemblyInfoInputs.cache
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_2_Q5\Lab2_Ques5\obj\Debug\netcoreapp3.1\Lab2_Ques5.AssemblyInfo.cs
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_2_Q5\Lab2_Ques5\obj\Debug\netcoreapp3.1\Lab2_Ques5.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_2_Q5\Lab2_Ques5\obj\Debug\netcoreapp3.1\Lab2_Ques5.dll
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_2_Q5\Lab2_Ques5\obj\Debug\netcoreapp3.1\Lab2_Ques5.pdb
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_2_Q5\Lab2_Ques5\obj\Debug\netcoreapp3.1\Lab2_Ques5.genruntimeconfig.cache
+D:\CAPGEMINI\Abhinava Ghosh\Lab-2\Lab_2_Q5\Lab2_Ques5\bin\Debug\netcoreapp3.1\Lab2_Ques5.exe
+D:\CAPGEMINI\Abhinava Ghosh\Lab-2\Lab_2_Q5\Lab2_Ques5\bin\Debug\netcoreapp3.1\Lab2_Ques5.deps.json
+D:\CAPGEMINI\Abhinava Ghosh\Lab-2\Lab_2_Q5\Lab2_Ques5\bin\Debug\netcoreapp3.1\Lab2_Ques5.runtimeconfig.json
+D:\CAPGEMINI\Abhinava Ghosh\Lab-2\Lab_2_Q5\Lab2_Ques5\bin\Debug\netcoreapp3.1\Lab2_Ques5.runtimeconfig.dev.json
+D:\CAPGEMINI\Abhinava Ghosh\Lab-2\Lab_2_Q5\Lab2_Ques5\bin\Debug\netcoreapp3.1\Lab2_Ques5.dll
+D:\CAPGEMINI\Abhinava Ghosh\Lab-2\Lab_2_Q5\Lab2_Ques5\bin\Debug\netcoreapp3.1\Lab2_Ques5.pdb
+D:\CAPGEMINI\Abhinava Ghosh\Lab-2\Lab_2_Q5\Lab2_Ques5\obj\Debug\netcoreapp3.1\Lab2_Ques5.csprojAssemblyReference.cache
+D:\CAPGEMINI\Abhinava Ghosh\Lab-2\Lab_2_Q5\Lab2_Ques5\obj\Debug\netcoreapp3.1\Lab2_Ques5.AssemblyInfoInputs.cache
+D:\CAPGEMINI\Abhinava Ghosh\Lab-2\Lab_2_Q5\Lab2_Ques5\obj\Debug\netcoreapp3.1\Lab2_Ques5.AssemblyInfo.cs
+D:\CAPGEMINI\Abhinava Ghosh\Lab-2\Lab_2_Q5\Lab2_Ques5\obj\Debug\netcoreapp3.1\Lab2_Ques5.csproj.CoreCompileInputs.cache
+D:\CAPGEMINI\Abhinava Ghosh\Lab-2\Lab_2_Q5\Lab2_Ques5\obj\Debug\netcoreapp3.1\Lab2_Ques5.dll
+D:\CAPGEMINI\Abhinava Ghosh\Lab-2\Lab_2_Q5\Lab2_Ques5\obj\Debug\netcoreapp3.1\Lab2_Ques5.pdb
+D:\CAPGEMINI\Abhinava Ghosh\Lab-2\Lab_2_Q5\Lab2_Ques5\obj\Debug\netcoreapp3.1\Lab2_Ques5.genruntimeconfig.cache

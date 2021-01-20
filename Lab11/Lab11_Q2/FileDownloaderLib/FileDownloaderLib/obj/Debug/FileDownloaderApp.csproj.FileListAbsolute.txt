@@ -1,0 +1,7 @@
+D:\TrainingCap\Lab11\Lab11_Q2\FileDownloaderLib\FileDownloaderLib\obj\Debug\FileDownloaderApp.csprojAssemblyReference.cache
+D:\TrainingCap\Lab11\Lab11_Q2\FileDownloaderLib\FileDownloaderLib\obj\Debug\FileDownloaderApp.csproj.CoreCompileInputs.cache
+D:\TrainingCap\Lab11\Lab11_Q2\FileDownloaderLib\FileDownloaderLib\bin\Debug\FileDownloaderApp.exe.config
+D:\TrainingCap\Lab11\Lab11_Q2\FileDownloaderLib\FileDownloaderLib\bin\Debug\FileDownloaderApp.exe
+D:\TrainingCap\Lab11\Lab11_Q2\FileDownloaderLib\FileDownloaderLib\bin\Debug\FileDownloaderApp.pdb
+D:\TrainingCap\Lab11\Lab11_Q2\FileDownloaderLib\FileDownloaderLib\obj\Debug\FileDownloaderApp.exe
+D:\TrainingCap\Lab11\Lab11_Q2\FileDownloaderLib\FileDownloaderLib\obj\Debug\FileDownloaderApp.pdb

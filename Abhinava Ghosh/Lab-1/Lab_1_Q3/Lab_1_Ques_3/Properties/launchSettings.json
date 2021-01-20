@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Lab_1_Ques_3": {
+      "commandName": "Project",
+      "commandLineArgs": "6",
+      "workingDirectory": "E:\\C# assign\\Lab_1_Q3\\Lab_1_Ques_3"
+    }
+  }
+}

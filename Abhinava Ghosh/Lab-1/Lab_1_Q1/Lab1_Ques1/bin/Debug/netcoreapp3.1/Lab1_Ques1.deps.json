@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Lab1_Ques1/1.0.0": {
+        "dependencies": {
+          "EmployeeLib": "1.0.0"
+        },
+        "runtime": {
+          "Lab1_Ques1.dll": {}
+        }
+      },
+      "EmployeeLib/1.0.0": {
+        "runtime": {
+          "EmployeeLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab1_Ques1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmployeeLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,10 @@
+D:\TrainingCap\Lab11\Lab11_Q1\BankLib\ICICIApp\bin\Debug\ICICIApp.exe.config
+D:\TrainingCap\Lab11\Lab11_Q1\BankLib\ICICIApp\bin\Debug\ICICIApp.exe
+D:\TrainingCap\Lab11\Lab11_Q1\BankLib\ICICIApp\bin\Debug\ICICIApp.pdb
+D:\TrainingCap\Lab11\Lab11_Q1\BankLib\ICICIApp\bin\Debug\BankLib.dll
+D:\TrainingCap\Lab11\Lab11_Q1\BankLib\ICICIApp\bin\Debug\BankLib.pdb
+D:\TrainingCap\Lab11\Lab11_Q1\BankLib\ICICIApp\obj\Debug\ICICIApp.csprojAssemblyReference.cache
+D:\TrainingCap\Lab11\Lab11_Q1\BankLib\ICICIApp\obj\Debug\ICICIApp.csproj.CoreCompileInputs.cache
+D:\TrainingCap\Lab11\Lab11_Q1\BankLib\ICICIApp\obj\Debug\ICICIApp.csproj.CopyComplete
+D:\TrainingCap\Lab11\Lab11_Q1\BankLib\ICICIApp\obj\Debug\ICICIApp.exe
+D:\TrainingCap\Lab11\Lab11_Q1\BankLib\ICICIApp\obj\Debug\ICICIApp.pdb

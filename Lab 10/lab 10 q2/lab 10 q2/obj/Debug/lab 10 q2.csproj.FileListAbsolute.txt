@@ -1,0 +1,7 @@
+D:\dotnet lab assignments\Lab 10\lab 10 q2\lab 10 q2\bin\Debug\lab 10 q2.exe.config
+D:\dotnet lab assignments\Lab 10\lab 10 q2\lab 10 q2\bin\Debug\lab 10 q2.exe
+D:\dotnet lab assignments\Lab 10\lab 10 q2\lab 10 q2\bin\Debug\lab 10 q2.pdb
+D:\dotnet lab assignments\Lab 10\lab 10 q2\lab 10 q2\obj\Debug\lab 10 q2.csprojAssemblyReference.cache
+D:\dotnet lab assignments\Lab 10\lab 10 q2\lab 10 q2\obj\Debug\lab 10 q2.csproj.CoreCompileInputs.cache
+D:\dotnet lab assignments\Lab 10\lab 10 q2\lab 10 q2\obj\Debug\lab 10 q2.exe
+D:\dotnet lab assignments\Lab 10\lab 10 q2\lab 10 q2\obj\Debug\lab 10 q2.pdb

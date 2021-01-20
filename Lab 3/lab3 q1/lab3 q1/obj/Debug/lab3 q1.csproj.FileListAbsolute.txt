@@ -1,0 +1,24 @@
+D:\dotnet lab assignments\lab3\lab3-1\lab3 q1\lab3 q1\bin\Debug\lab3 q1.exe.config
+D:\dotnet lab assignments\lab3\lab3-1\lab3 q1\lab3 q1\bin\Debug\lab3 q1.exe
+D:\dotnet lab assignments\lab3\lab3-1\lab3 q1\lab3 q1\bin\Debug\lab3 q1.pdb
+D:\dotnet lab assignments\lab3\lab3-1\lab3 q1\lab3 q1\bin\Debug\participantslib.dll
+D:\dotnet lab assignments\lab3\lab3-1\lab3 q1\lab3 q1\bin\Debug\participantslib.pdb
+D:\dotnet lab assignments\lab3\lab3-1\lab3 q1\lab3 q1\obj\Debug\lab3 q1.csprojAssemblyReference.cache
+D:\dotnet lab assignments\lab3\lab3-1\lab3 q1\lab3 q1\obj\Debug\lab3 q1.csproj.CoreCompileInputs.cache
+D:\dotnet lab assignments\lab3\lab3-1\lab3 q1\lab3 q1\obj\Debug\lab3 q1.csproj.CopyComplete
+D:\dotnet lab assignments\lab3\lab3-1\lab3 q1\lab3 q1\obj\Debug\lab3 q1.exe
+D:\dotnet lab assignments\lab3\lab3-1\lab3 q1\lab3 q1\obj\Debug\lab3 q1.pdb
+C:\Users\KIIT\Downloads\Lab 3\lab3 q1\lab3 q1\bin\Debug\lab3 q1.exe.config
+C:\Users\KIIT\Downloads\Lab 3\lab3 q1\lab3 q1\bin\Debug\lab3 q1.exe
+C:\Users\KIIT\Downloads\Lab 3\lab3 q1\lab3 q1\bin\Debug\lab3 q1.pdb
+C:\Users\KIIT\Downloads\Lab 3\lab3 q1\lab3 q1\bin\Debug\participantslib.dll
+C:\Users\KIIT\Downloads\Lab 3\lab3 q1\lab3 q1\bin\Debug\participantslib.pdb
+C:\Users\KIIT\Downloads\Lab 3\lab3 q1\lab3 q1\obj\Debug\lab3 q1.csprojAssemblyReference.cache
+C:\Users\KIIT\Downloads\Lab 3\lab3 q1\lab3 q1\obj\Debug\lab3 q1.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Downloads\Lab 3\lab3 q1\lab3 q1\obj\Debug\lab3 q1.csproj.CopyComplete
+C:\Users\KIIT\Downloads\Lab 3\lab3 q1\lab3 q1\obj\Debug\lab3 q1.exe
+C:\Users\KIIT\Downloads\Lab 3\lab3 q1\lab3 q1\obj\Debug\lab3 q1.pdb
+D:\CAPGEMINI\Lab 3\lab3 q1\lab3 q1\obj\Debug\lab3 q1.csprojAssemblyReference.cache
+D:\CAPGEMINI\Lab 3\lab3 q1\lab3 q1\obj\Debug\lab3 q1.csproj.CoreCompileInputs.cache
+D:\CAPGEMINI\Lab 3\lab3 q1\lab3 q1\obj\Debug\lab3 q1.exe
+D:\CAPGEMINI\Lab 3\lab3 q1\lab3 q1\obj\Debug\lab3 q1.pdb

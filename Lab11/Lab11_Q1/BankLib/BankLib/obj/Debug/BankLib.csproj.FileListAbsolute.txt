@@ -1,0 +1,6 @@
+D:\TrainingCap\Lab11\Lab11_Q1\BankLib\BankLib\bin\Debug\BankLib.dll
+D:\TrainingCap\Lab11\Lab11_Q1\BankLib\BankLib\bin\Debug\BankLib.pdb
+D:\TrainingCap\Lab11\Lab11_Q1\BankLib\BankLib\obj\Debug\BankLib.csprojAssemblyReference.cache
+D:\TrainingCap\Lab11\Lab11_Q1\BankLib\BankLib\obj\Debug\BankLib.csproj.CoreCompileInputs.cache
+D:\TrainingCap\Lab11\Lab11_Q1\BankLib\BankLib\obj\Debug\BankLib.dll
+D:\TrainingCap\Lab11\Lab11_Q1\BankLib\BankLib\obj\Debug\BankLib.pdb

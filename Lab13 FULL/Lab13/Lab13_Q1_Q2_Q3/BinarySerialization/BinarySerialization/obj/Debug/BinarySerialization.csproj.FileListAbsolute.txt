@@ -1,0 +1,14 @@
+D:\TrainingCap\Lab13\Lab13_Q1\BinarySerialization\BinarySerialization\bin\Debug\BinarySerialization.exe.config
+D:\TrainingCap\Lab13\Lab13_Q1\BinarySerialization\BinarySerialization\bin\Debug\BinarySerialization.exe
+D:\TrainingCap\Lab13\Lab13_Q1\BinarySerialization\BinarySerialization\bin\Debug\BinarySerialization.pdb
+D:\TrainingCap\Lab13\Lab13_Q1\BinarySerialization\BinarySerialization\obj\Debug\BinarySerialization.csprojAssemblyReference.cache
+D:\TrainingCap\Lab13\Lab13_Q1\BinarySerialization\BinarySerialization\obj\Debug\BinarySerialization.csproj.CoreCompileInputs.cache
+D:\TrainingCap\Lab13\Lab13_Q1\BinarySerialization\BinarySerialization\obj\Debug\BinarySerialization.exe
+D:\TrainingCap\Lab13\Lab13_Q1\BinarySerialization\BinarySerialization\obj\Debug\BinarySerialization.pdb
+C:\Users\KIIT\Downloads\Lab13\Lab13\Lab13_Q1_Q2_Q3\BinarySerialization\BinarySerialization\bin\Debug\BinarySerialization.exe.config
+C:\Users\KIIT\Downloads\Lab13\Lab13\Lab13_Q1_Q2_Q3\BinarySerialization\BinarySerialization\bin\Debug\BinarySerialization.exe
+C:\Users\KIIT\Downloads\Lab13\Lab13\Lab13_Q1_Q2_Q3\BinarySerialization\BinarySerialization\bin\Debug\BinarySerialization.pdb
+C:\Users\KIIT\Downloads\Lab13\Lab13\Lab13_Q1_Q2_Q3\BinarySerialization\BinarySerialization\obj\Debug\BinarySerialization.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Downloads\Lab13\Lab13\Lab13_Q1_Q2_Q3\BinarySerialization\BinarySerialization\obj\Debug\BinarySerialization.exe
+C:\Users\KIIT\Downloads\Lab13\Lab13\Lab13_Q1_Q2_Q3\BinarySerialization\BinarySerialization\obj\Debug\BinarySerialization.pdb
+C:\Users\KIIT\Downloads\Lab13\Lab13\Lab13_Q1_Q2_Q3\BinarySerialization\BinarySerialization\obj\Debug\BinarySerialization.csprojAssemblyReference.cache

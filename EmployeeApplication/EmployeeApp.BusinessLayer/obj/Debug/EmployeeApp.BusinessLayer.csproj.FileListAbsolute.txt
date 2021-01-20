@@ -1,0 +1,13 @@
+D:\TrainingCap\Xtra\EmployeeApp\EmployeeApplication\EmployeeApp.BusinessLayer\bin\Debug\EmployeeApp.BusinessLayer.dll
+D:\TrainingCap\Xtra\EmployeeApp\EmployeeApplication\EmployeeApp.BusinessLayer\bin\Debug\EmployeeApp.BusinessLayer.pdb
+D:\TrainingCap\Xtra\EmployeeApp\EmployeeApplication\EmployeeApp.BusinessLayer\bin\Debug\EmployeeApp.DataAccessLayer.dll
+D:\TrainingCap\Xtra\EmployeeApp\EmployeeApplication\EmployeeApp.BusinessLayer\bin\Debug\EmployeeApp.Entites.dll
+D:\TrainingCap\Xtra\EmployeeApp\EmployeeApplication\EmployeeApp.BusinessLayer\bin\Debug\EmployeeApp.Exceptions.dll
+D:\TrainingCap\Xtra\EmployeeApp\EmployeeApplication\EmployeeApp.BusinessLayer\bin\Debug\EmployeeApp.DataAccessLayer.pdb
+D:\TrainingCap\Xtra\EmployeeApp\EmployeeApplication\EmployeeApp.BusinessLayer\bin\Debug\EmployeeApp.Entites.pdb
+D:\TrainingCap\Xtra\EmployeeApp\EmployeeApplication\EmployeeApp.BusinessLayer\bin\Debug\EmployeeApp.Exceptions.pdb
+D:\TrainingCap\Xtra\EmployeeApp\EmployeeApplication\EmployeeApp.BusinessLayer\obj\Debug\EmployeeApp.BusinessLayer.csprojAssemblyReference.cache
+D:\TrainingCap\Xtra\EmployeeApp\EmployeeApplication\EmployeeApp.BusinessLayer\obj\Debug\EmployeeApp.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\TrainingCap\Xtra\EmployeeApp\EmployeeApplication\EmployeeApp.BusinessLayer\obj\Debug\EmployeeApp.BusinessLayer.csproj.CopyComplete
+D:\TrainingCap\Xtra\EmployeeApp\EmployeeApplication\EmployeeApp.BusinessLayer\obj\Debug\EmployeeApp.BusinessLayer.dll
+D:\TrainingCap\Xtra\EmployeeApp\EmployeeApplication\EmployeeApp.BusinessLayer\obj\Debug\EmployeeApp.BusinessLayer.pdb

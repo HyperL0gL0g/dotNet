@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Lab13",
+    "\\Lab13\\Lab13_Q1_Q2_Q3",
+    "\\Lab13\\Lab13_Q1_Q2_Q3\\BinarySerialization",
+    "\\Lab13\\Lab13_Q1_Q2_Q3\\BinarySerialization\\BinarySerialization",
+    "\\Lab13\\Lab13_Q4",
+    "\\Lab13\\Lab13_Q4\\XmlSerial",
+    "\\Lab13\\Lab13_Q4\\XmlSerial\\XmlSerial",
+    "\\Lab13\\Lab13_Q_5",
+    "\\Lab13\\Lab13_Q_5\\ISerializableImplement",
+    "\\Lab13\\Lab13_Q_5\\ISerializableImplement\\ISerializableImplement"
+  ],
+  "SelectedNode": "\\Lab13\\Lab13_Q1_Q2_Q3\\BinarySerialization\\BinarySerialization\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

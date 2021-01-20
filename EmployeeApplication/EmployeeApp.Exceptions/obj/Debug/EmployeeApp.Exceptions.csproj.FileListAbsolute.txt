@@ -1,0 +1,6 @@
+D:\TrainingCap\Xtra\EmployeeApp\EmployeeApplication\EmployeeApp.Exceptions\bin\Debug\EmployeeApp.Exceptions.dll
+D:\TrainingCap\Xtra\EmployeeApp\EmployeeApplication\EmployeeApp.Exceptions\bin\Debug\EmployeeApp.Exceptions.pdb
+D:\TrainingCap\Xtra\EmployeeApp\EmployeeApplication\EmployeeApp.Exceptions\obj\Debug\EmployeeApp.Exceptions.csprojAssemblyReference.cache
+D:\TrainingCap\Xtra\EmployeeApp\EmployeeApplication\EmployeeApp.Exceptions\obj\Debug\EmployeeApp.Exceptions.csproj.CoreCompileInputs.cache
+D:\TrainingCap\Xtra\EmployeeApp\EmployeeApplication\EmployeeApp.Exceptions\obj\Debug\EmployeeApp.Exceptions.dll
+D:\TrainingCap\Xtra\EmployeeApp\EmployeeApplication\EmployeeApp.Exceptions\obj\Debug\EmployeeApp.Exceptions.pdb

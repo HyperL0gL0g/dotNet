@@ -1,0 +1,6 @@
+D:\TrainingCap\Lab7\Lab7_Q1\ContactLib\ContactLib\bin\Debug\ContactLib.dll
+D:\TrainingCap\Lab7\Lab7_Q1\ContactLib\ContactLib\bin\Debug\ContactLib.pdb
+D:\TrainingCap\Lab7\Lab7_Q1\ContactLib\ContactLib\obj\Debug\ContactLib.csprojAssemblyReference.cache
+D:\TrainingCap\Lab7\Lab7_Q1\ContactLib\ContactLib\obj\Debug\ContactLib.csproj.CoreCompileInputs.cache
+D:\TrainingCap\Lab7\Lab7_Q1\ContactLib\ContactLib\obj\Debug\ContactLib.dll
+D:\TrainingCap\Lab7\Lab7_Q1\ContactLib\ContactLib\obj\Debug\ContactLib.pdb

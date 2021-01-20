@@ -1,0 +1,14 @@
+D:\TrainingCap\Lab6\Lab6_Q2\ProductApplication\ProductApplication\bin\Debug\ProductApplication.exe.config
+D:\TrainingCap\Lab6\Lab6_Q2\ProductApplication\ProductApplication\bin\Debug\ProductApplication.exe
+D:\TrainingCap\Lab6\Lab6_Q2\ProductApplication\ProductApplication\bin\Debug\ProductApplication.pdb
+D:\TrainingCap\Lab6\Lab6_Q2\ProductApplication\ProductApplication\obj\Debug\ProductApplication.csprojAssemblyReference.cache
+D:\TrainingCap\Lab6\Lab6_Q2\ProductApplication\ProductApplication\obj\Debug\ProductApplication.csproj.CoreCompileInputs.cache
+D:\TrainingCap\Lab6\Lab6_Q2\ProductApplication\ProductApplication\obj\Debug\ProductApplication.exe
+D:\TrainingCap\Lab6\Lab6_Q2\ProductApplication\ProductApplication\obj\Debug\ProductApplication.pdb
+C:\Users\KIIT\Downloads\Lab6\Lab6_Q2\ProductApplication\ProductApplication\bin\Debug\ProductApplication.exe.config
+C:\Users\KIIT\Downloads\Lab6\Lab6_Q2\ProductApplication\ProductApplication\bin\Debug\ProductApplication.exe
+C:\Users\KIIT\Downloads\Lab6\Lab6_Q2\ProductApplication\ProductApplication\bin\Debug\ProductApplication.pdb
+C:\Users\KIIT\Downloads\Lab6\Lab6_Q2\ProductApplication\ProductApplication\obj\Debug\ProductApplication.csprojAssemblyReference.cache
+C:\Users\KIIT\Downloads\Lab6\Lab6_Q2\ProductApplication\ProductApplication\obj\Debug\ProductApplication.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Downloads\Lab6\Lab6_Q2\ProductApplication\ProductApplication\obj\Debug\ProductApplication.exe
+C:\Users\KIIT\Downloads\Lab6\Lab6_Q2\ProductApplication\ProductApplication\obj\Debug\ProductApplication.pdb

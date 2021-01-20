@@ -1,0 +1,7 @@
+D:\TrainingCap\ExtraAssignment\Basics\Basics3\Basics3\Basics3\bin\Debug\Basics3.exe.config
+D:\TrainingCap\ExtraAssignment\Basics\Basics3\Basics3\Basics3\bin\Debug\Basics3.exe
+D:\TrainingCap\ExtraAssignment\Basics\Basics3\Basics3\Basics3\bin\Debug\Basics3.pdb
+D:\TrainingCap\ExtraAssignment\Basics\Basics3\Basics3\Basics3\obj\Debug\Basics3.csprojAssemblyReference.cache
+D:\TrainingCap\ExtraAssignment\Basics\Basics3\Basics3\Basics3\obj\Debug\Basics3.csproj.CoreCompileInputs.cache
+D:\TrainingCap\ExtraAssignment\Basics\Basics3\Basics3\Basics3\obj\Debug\Basics3.exe
+D:\TrainingCap\ExtraAssignment\Basics\Basics3\Basics3\Basics3\obj\Debug\Basics3.pdb

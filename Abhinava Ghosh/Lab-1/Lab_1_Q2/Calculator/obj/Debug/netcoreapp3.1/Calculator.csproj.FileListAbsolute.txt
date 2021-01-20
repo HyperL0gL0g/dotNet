@@ -1,0 +1,48 @@
+E:\Day_1_Calc\Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
+E:\Day_1_Calc\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+E:\Day_1_Calc\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+E:\Day_1_Calc\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+E:\Day_1_Calc\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+E:\Day_1_Calc\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+E:\Day_1_Calc\Calculator\obj\Debug\netcoreapp3.1\Calculator.csprojAssemblyReference.cache
+E:\Day_1_Calc\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+E:\Day_1_Calc\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+E:\Day_1_Calc\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+E:\Day_1_Calc\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+E:\Day_1_Calc\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
+E:\Day_1_Calc\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache
+E:\Day_1_Calc\Calculator\bin\Debug\netcoreapp3.1\Operation_Calc.dll
+E:\Day_1_Calc\Calculator\bin\Debug\netcoreapp3.1\Operation_Calc.pdb
+E:\Day_1_Calc\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CopyComplete
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_1_Q2\Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_1_Q2\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_1_Q2\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_1_Q2\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_1_Q2\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_1_Q2\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_1_Q2\Calculator\bin\Debug\netcoreapp3.1\Operation_Calc.dll
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_1_Q2\Calculator\bin\Debug\netcoreapp3.1\Operation_Calc.pdb
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_1_Q2\Calculator\obj\Debug\netcoreapp3.1\Calculator.csprojAssemblyReference.cache
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_1_Q2\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_1_Q2\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_1_Q2\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_1_Q2\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CopyComplete
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_1_Q2\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_1_Q2\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_1_Q2\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache
+D:\CAPGEMINI\Abhinava Ghosh\Lab-1\Lab_1_Q2\Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
+D:\CAPGEMINI\Abhinava Ghosh\Lab-1\Lab_1_Q2\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+D:\CAPGEMINI\Abhinava Ghosh\Lab-1\Lab_1_Q2\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+D:\CAPGEMINI\Abhinava Ghosh\Lab-1\Lab_1_Q2\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+D:\CAPGEMINI\Abhinava Ghosh\Lab-1\Lab_1_Q2\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+D:\CAPGEMINI\Abhinava Ghosh\Lab-1\Lab_1_Q2\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+D:\CAPGEMINI\Abhinava Ghosh\Lab-1\Lab_1_Q2\Calculator\bin\Debug\netcoreapp3.1\Operation_Calc.dll
+D:\CAPGEMINI\Abhinava Ghosh\Lab-1\Lab_1_Q2\Calculator\bin\Debug\netcoreapp3.1\Operation_Calc.pdb
+D:\CAPGEMINI\Abhinava Ghosh\Lab-1\Lab_1_Q2\Calculator\obj\Debug\netcoreapp3.1\Calculator.csprojAssemblyReference.cache
+D:\CAPGEMINI\Abhinava Ghosh\Lab-1\Lab_1_Q2\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+D:\CAPGEMINI\Abhinava Ghosh\Lab-1\Lab_1_Q2\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+D:\CAPGEMINI\Abhinava Ghosh\Lab-1\Lab_1_Q2\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+D:\CAPGEMINI\Abhinava Ghosh\Lab-1\Lab_1_Q2\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CopyComplete
+D:\CAPGEMINI\Abhinava Ghosh\Lab-1\Lab_1_Q2\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+D:\CAPGEMINI\Abhinava Ghosh\Lab-1\Lab_1_Q2\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
+D:\CAPGEMINI\Abhinava Ghosh\Lab-1\Lab_1_Q2\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache

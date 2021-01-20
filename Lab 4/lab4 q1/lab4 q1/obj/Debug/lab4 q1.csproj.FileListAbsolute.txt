@@ -1,0 +1,14 @@
+D:\dotnet lab assignments\lab4\lab4 q1\lab4 q1\bin\Debug\lab4 q1.exe.config
+D:\dotnet lab assignments\lab4\lab4 q1\lab4 q1\bin\Debug\lab4 q1.exe
+D:\dotnet lab assignments\lab4\lab4 q1\lab4 q1\bin\Debug\lab4 q1.pdb
+D:\dotnet lab assignments\lab4\lab4 q1\lab4 q1\obj\Debug\lab4 q1.csprojAssemblyReference.cache
+D:\dotnet lab assignments\lab4\lab4 q1\lab4 q1\obj\Debug\lab4 q1.csproj.CoreCompileInputs.cache
+D:\dotnet lab assignments\lab4\lab4 q1\lab4 q1\obj\Debug\lab4 q1.exe
+D:\dotnet lab assignments\lab4\lab4 q1\lab4 q1\obj\Debug\lab4 q1.pdb
+C:\Users\KIIT\Downloads\lab4 q1\lab4 q1\bin\Debug\lab4 q1.exe.config
+C:\Users\KIIT\Downloads\lab4 q1\lab4 q1\bin\Debug\lab4 q1.exe
+C:\Users\KIIT\Downloads\lab4 q1\lab4 q1\bin\Debug\lab4 q1.pdb
+C:\Users\KIIT\Downloads\lab4 q1\lab4 q1\obj\Debug\lab4 q1.csprojAssemblyReference.cache
+C:\Users\KIIT\Downloads\lab4 q1\lab4 q1\obj\Debug\lab4 q1.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Downloads\lab4 q1\lab4 q1\obj\Debug\lab4 q1.exe
+C:\Users\KIIT\Downloads\lab4 q1\lab4 q1\obj\Debug\lab4 q1.pdb

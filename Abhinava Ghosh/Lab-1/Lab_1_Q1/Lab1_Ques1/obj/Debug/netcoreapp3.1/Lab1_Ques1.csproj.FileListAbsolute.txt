@@ -1,0 +1,32 @@
+E:\C# assign\Lab_1_Q1\Lab1_Ques1\bin\Debug\netcoreapp3.1\Lab1_Ques1.exe
+E:\C# assign\Lab_1_Q1\Lab1_Ques1\bin\Debug\netcoreapp3.1\Lab1_Ques1.deps.json
+E:\C# assign\Lab_1_Q1\Lab1_Ques1\bin\Debug\netcoreapp3.1\Lab1_Ques1.runtimeconfig.json
+E:\C# assign\Lab_1_Q1\Lab1_Ques1\bin\Debug\netcoreapp3.1\Lab1_Ques1.runtimeconfig.dev.json
+E:\C# assign\Lab_1_Q1\Lab1_Ques1\bin\Debug\netcoreapp3.1\Lab1_Ques1.dll
+E:\C# assign\Lab_1_Q1\Lab1_Ques1\bin\Debug\netcoreapp3.1\Lab1_Ques1.pdb
+E:\C# assign\Lab_1_Q1\Lab1_Ques1\bin\Debug\netcoreapp3.1\EmployeeLib.dll
+E:\C# assign\Lab_1_Q1\Lab1_Ques1\bin\Debug\netcoreapp3.1\EmployeeLib.pdb
+E:\C# assign\Lab_1_Q1\Lab1_Ques1\obj\Debug\netcoreapp3.1\Lab1_Ques1.csprojAssemblyReference.cache
+E:\C# assign\Lab_1_Q1\Lab1_Ques1\obj\Debug\netcoreapp3.1\Lab1_Ques1.AssemblyInfoInputs.cache
+E:\C# assign\Lab_1_Q1\Lab1_Ques1\obj\Debug\netcoreapp3.1\Lab1_Ques1.AssemblyInfo.cs
+E:\C# assign\Lab_1_Q1\Lab1_Ques1\obj\Debug\netcoreapp3.1\Lab1_Ques1.csproj.CoreCompileInputs.cache
+E:\C# assign\Lab_1_Q1\Lab1_Ques1\obj\Debug\netcoreapp3.1\Lab1_Ques1.csproj.CopyComplete
+E:\C# assign\Lab_1_Q1\Lab1_Ques1\obj\Debug\netcoreapp3.1\Lab1_Ques1.dll
+E:\C# assign\Lab_1_Q1\Lab1_Ques1\obj\Debug\netcoreapp3.1\Lab1_Ques1.pdb
+E:\C# assign\Lab_1_Q1\Lab1_Ques1\obj\Debug\netcoreapp3.1\Lab1_Ques1.genruntimeconfig.cache
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_1_Q1\Lab1_Ques1\bin\Debug\netcoreapp3.1\Lab1_Ques1.exe
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_1_Q1\Lab1_Ques1\bin\Debug\netcoreapp3.1\Lab1_Ques1.deps.json
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_1_Q1\Lab1_Ques1\bin\Debug\netcoreapp3.1\Lab1_Ques1.runtimeconfig.json
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_1_Q1\Lab1_Ques1\bin\Debug\netcoreapp3.1\Lab1_Ques1.runtimeconfig.dev.json
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_1_Q1\Lab1_Ques1\bin\Debug\netcoreapp3.1\Lab1_Ques1.dll
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_1_Q1\Lab1_Ques1\bin\Debug\netcoreapp3.1\Lab1_Ques1.pdb
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_1_Q1\Lab1_Ques1\bin\Debug\netcoreapp3.1\EmployeeLib.dll
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_1_Q1\Lab1_Ques1\bin\Debug\netcoreapp3.1\EmployeeLib.pdb
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_1_Q1\Lab1_Ques1\obj\Debug\netcoreapp3.1\Lab1_Ques1.csprojAssemblyReference.cache
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_1_Q1\Lab1_Ques1\obj\Debug\netcoreapp3.1\Lab1_Ques1.AssemblyInfoInputs.cache
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_1_Q1\Lab1_Ques1\obj\Debug\netcoreapp3.1\Lab1_Ques1.AssemblyInfo.cs
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_1_Q1\Lab1_Ques1\obj\Debug\netcoreapp3.1\Lab1_Ques1.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_1_Q1\Lab1_Ques1\obj\Debug\netcoreapp3.1\Lab1_Ques1.csproj.CopyComplete
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_1_Q1\Lab1_Ques1\obj\Debug\netcoreapp3.1\Lab1_Ques1.dll
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_1_Q1\Lab1_Ques1\obj\Debug\netcoreapp3.1\Lab1_Ques1.pdb
+C:\Users\KIIT\Downloads\Adarsh Kumar Singh\Lab_1_Q1\Lab1_Ques1\obj\Debug\netcoreapp3.1\Lab1_Ques1.genruntimeconfig.cache

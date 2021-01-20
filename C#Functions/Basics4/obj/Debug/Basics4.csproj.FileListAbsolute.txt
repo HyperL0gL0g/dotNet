@@ -1,0 +1,7 @@
+D:\TrainingCap\ExtraAssignment\Basics\Basics4\Basics4\Basics4\bin\Debug\Basics4.exe.config
+D:\TrainingCap\ExtraAssignment\Basics\Basics4\Basics4\Basics4\bin\Debug\Basics4.exe
+D:\TrainingCap\ExtraAssignment\Basics\Basics4\Basics4\Basics4\bin\Debug\Basics4.pdb
+D:\TrainingCap\ExtraAssignment\Basics\Basics4\Basics4\Basics4\obj\Debug\Basics4.csprojAssemblyReference.cache
+D:\TrainingCap\ExtraAssignment\Basics\Basics4\Basics4\Basics4\obj\Debug\Basics4.csproj.CoreCompileInputs.cache
+D:\TrainingCap\ExtraAssignment\Basics\Basics4\Basics4\Basics4\obj\Debug\Basics4.exe
+D:\TrainingCap\ExtraAssignment\Basics\Basics4\Basics4\Basics4\obj\Debug\Basics4.pdb

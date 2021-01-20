@@ -1,0 +1,12 @@
+D:\TrainingCap\Lab5\Lab5_Q1\BankingLib\BankingLib\bin\Debug\BankingLib.dll
+D:\TrainingCap\Lab5\Lab5_Q1\BankingLib\BankingLib\bin\Debug\BankingLib.pdb
+D:\TrainingCap\Lab5\Lab5_Q1\BankingLib\BankingLib\obj\Debug\BankingLib.csprojAssemblyReference.cache
+D:\TrainingCap\Lab5\Lab5_Q1\BankingLib\BankingLib\obj\Debug\BankingLib.csproj.CoreCompileInputs.cache
+D:\TrainingCap\Lab5\Lab5_Q1\BankingLib\BankingLib\obj\Debug\BankingLib.dll
+D:\TrainingCap\Lab5\Lab5_Q1\BankingLib\BankingLib\obj\Debug\BankingLib.pdb
+D:\TrainingCap\Lab5\Lab5_Q2\BankingLib\BankingLib\bin\Debug\BankingLib.dll
+D:\TrainingCap\Lab5\Lab5_Q2\BankingLib\BankingLib\bin\Debug\BankingLib.pdb
+D:\TrainingCap\Lab5\Lab5_Q2\BankingLib\BankingLib\obj\Debug\BankingLib.csprojAssemblyReference.cache
+D:\TrainingCap\Lab5\Lab5_Q2\BankingLib\BankingLib\obj\Debug\BankingLib.csproj.CoreCompileInputs.cache
+D:\TrainingCap\Lab5\Lab5_Q2\BankingLib\BankingLib\obj\Debug\BankingLib.dll
+D:\TrainingCap\Lab5\Lab5_Q2\BankingLib\BankingLib\obj\Debug\BankingLib.pdb

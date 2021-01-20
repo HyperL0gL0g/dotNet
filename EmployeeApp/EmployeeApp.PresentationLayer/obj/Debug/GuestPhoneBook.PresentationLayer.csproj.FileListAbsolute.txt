@@ -1,0 +1,32 @@
+D:\Nachiket\Study Materials\Module 2\Demos\GuestPhoneBook\GuestPhoneBook.PresentationLayer\bin\Debug\GuestPhoneBook.PresentationLayer.exe.config
+D:\Nachiket\Study Materials\Module 2\Demos\GuestPhoneBook\GuestPhoneBook.PresentationLayer\bin\Debug\GuestPhoneBook.PresentationLayer.exe
+D:\Nachiket\Study Materials\Module 2\Demos\GuestPhoneBook\GuestPhoneBook.PresentationLayer\bin\Debug\GuestPhoneBook.PresentationLayer.pdb
+D:\Nachiket\Study Materials\Module 2\Demos\GuestPhoneBook\GuestPhoneBook.PresentationLayer\obj\Debug\GuestPhoneBook.PresentationLayer.exe
+D:\Nachiket\Study Materials\Module 2\Demos\GuestPhoneBook\GuestPhoneBook.PresentationLayer\obj\Debug\GuestPhoneBook.PresentationLayer.pdb
+D:\Nachiket\Study Materials\Module 2\Demos\GuestPhoneBook\GuestPhoneBook.PresentationLayer\obj\Debug\GuestPhoneBook.PresentationLayer.csprojResolveAssemblyReference.cache
+D:\Nachiket\Study Materials\Module 2\Demos\GuestPhoneBook\GuestPhoneBook.PresentationLayer\bin\Debug\DataBase\Guest.mdf
+D:\Nachiket\Study Materials\Module 2\Demos\GuestPhoneBook\GuestPhoneBook.PresentationLayer\bin\Debug\DataBase\Guest_log.LDF
+D:\Nachiket\Study Materials\Module 2\Demos\GuestPhoneBook\GuestPhoneBook.PresentationLayer\bin\Debug\GuestPhoneBook.BusinessLayer.dll
+D:\Nachiket\Study Materials\Module 2\Demos\GuestPhoneBook\GuestPhoneBook.PresentationLayer\bin\Debug\GuestPhoneBook.Entities.dll
+D:\Nachiket\Study Materials\Module 2\Demos\GuestPhoneBook\GuestPhoneBook.PresentationLayer\bin\Debug\GuestPhoneBook.Exceptions.dll
+D:\Nachiket\Study Materials\Module 2\Demos\GuestPhoneBook\GuestPhoneBook.PresentationLayer\bin\Debug\GuestPhoneBook.DataAccessLayer.dll
+D:\Nachiket\Study Materials\Module 2\Demos\GuestPhoneBook\GuestPhoneBook.PresentationLayer\bin\Debug\GuestPhoneBook.BusinessLayer.pdb
+D:\Nachiket\Study Materials\Module 2\Demos\GuestPhoneBook\GuestPhoneBook.PresentationLayer\bin\Debug\GuestPhoneBook.Entities.pdb
+D:\Nachiket\Study Materials\Module 2\Demos\GuestPhoneBook\GuestPhoneBook.PresentationLayer\bin\Debug\GuestPhoneBook.Exceptions.pdb
+D:\Nachiket\Study Materials\Module 2\Demos\GuestPhoneBook\GuestPhoneBook.PresentationLayer\bin\Debug\GuestPhoneBook.DataAccessLayer.pdb
+D:\DATA\2018\May\Other\M2\GuestPhoneBook\GuestPhoneBook.PresentationLayer\bin\Debug\GuestPhoneBook.PresentationLayer.exe.config
+D:\DATA\2018\May\Other\M2\GuestPhoneBook\GuestPhoneBook.PresentationLayer\obj\Debug\GuestPhoneBook.PresentationLayer.exe
+D:\DATA\2018\May\Other\M2\GuestPhoneBook\GuestPhoneBook.PresentationLayer\obj\Debug\GuestPhoneBook.PresentationLayer.pdb
+D:\DATA\2018\May\Other\M2\GuestPhoneBook\GuestPhoneBook.PresentationLayer\bin\Debug\DataBase\Guest.mdf
+D:\DATA\2018\May\Other\M2\GuestPhoneBook\GuestPhoneBook.PresentationLayer\bin\Debug\DataBase\Guest_log.LDF
+D:\DATA\2018\May\Other\M2\GuestPhoneBook\GuestPhoneBook.PresentationLayer\bin\Debug\GuestPhoneBook.PresentationLayer.exe
+D:\DATA\2018\May\Other\M2\GuestPhoneBook\GuestPhoneBook.PresentationLayer\bin\Debug\GuestPhoneBook.PresentationLayer.pdb
+D:\DATA\2018\May\Other\M2\GuestPhoneBook\GuestPhoneBook.PresentationLayer\bin\Debug\GuestPhoneBook.BusinessLayer.dll
+D:\DATA\2018\May\Other\M2\GuestPhoneBook\GuestPhoneBook.PresentationLayer\bin\Debug\GuestPhoneBook.Entities.dll
+D:\DATA\2018\May\Other\M2\GuestPhoneBook\GuestPhoneBook.PresentationLayer\bin\Debug\GuestPhoneBook.Exceptions.dll
+D:\DATA\2018\May\Other\M2\GuestPhoneBook\GuestPhoneBook.PresentationLayer\bin\Debug\GuestPhoneBook.DataAccessLayer.dll
+D:\DATA\2018\May\Other\M2\GuestPhoneBook\GuestPhoneBook.PresentationLayer\bin\Debug\GuestPhoneBook.BusinessLayer.pdb
+D:\DATA\2018\May\Other\M2\GuestPhoneBook\GuestPhoneBook.PresentationLayer\bin\Debug\GuestPhoneBook.Entities.pdb
+D:\DATA\2018\May\Other\M2\GuestPhoneBook\GuestPhoneBook.PresentationLayer\bin\Debug\GuestPhoneBook.Exceptions.pdb
+D:\DATA\2018\May\Other\M2\GuestPhoneBook\GuestPhoneBook.PresentationLayer\bin\Debug\GuestPhoneBook.DataAccessLayer.pdb
+D:\DATA\2018\May\Other\M2\GuestPhoneBook\GuestPhoneBook.PresentationLayer\obj\Debug\GuestPhoneBook.PresentationLayer.csprojResolveAssemblyReference.cache

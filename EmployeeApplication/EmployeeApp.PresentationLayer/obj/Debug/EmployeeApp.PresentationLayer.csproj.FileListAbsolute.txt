@@ -1,0 +1,16 @@
+D:\TrainingCap\Xtra\EmployeeApp\EmployeeApplication\EmployeeApp.PresentationLayer\bin\Debug\EmployeeApp.PresentationLayer.exe.config
+D:\TrainingCap\Xtra\EmployeeApp\EmployeeApplication\EmployeeApp.PresentationLayer\bin\Debug\EmployeeApp.PresentationLayer.exe
+D:\TrainingCap\Xtra\EmployeeApp\EmployeeApplication\EmployeeApp.PresentationLayer\bin\Debug\EmployeeApp.PresentationLayer.pdb
+D:\TrainingCap\Xtra\EmployeeApp\EmployeeApplication\EmployeeApp.PresentationLayer\bin\Debug\EmployeeApp.BusinessLayer.dll
+D:\TrainingCap\Xtra\EmployeeApp\EmployeeApplication\EmployeeApp.PresentationLayer\bin\Debug\EmployeeApp.Entites.dll
+D:\TrainingCap\Xtra\EmployeeApp\EmployeeApplication\EmployeeApp.PresentationLayer\bin\Debug\EmployeeApp.Exceptions.dll
+D:\TrainingCap\Xtra\EmployeeApp\EmployeeApplication\EmployeeApp.PresentationLayer\bin\Debug\EmployeeApp.DataAccessLayer.dll
+D:\TrainingCap\Xtra\EmployeeApp\EmployeeApplication\EmployeeApp.PresentationLayer\bin\Debug\EmployeeApp.BusinessLayer.pdb
+D:\TrainingCap\Xtra\EmployeeApp\EmployeeApplication\EmployeeApp.PresentationLayer\bin\Debug\EmployeeApp.Entites.pdb
+D:\TrainingCap\Xtra\EmployeeApp\EmployeeApplication\EmployeeApp.PresentationLayer\bin\Debug\EmployeeApp.Exceptions.pdb
+D:\TrainingCap\Xtra\EmployeeApp\EmployeeApplication\EmployeeApp.PresentationLayer\bin\Debug\EmployeeApp.DataAccessLayer.pdb
+D:\TrainingCap\Xtra\EmployeeApp\EmployeeApplication\EmployeeApp.PresentationLayer\obj\Debug\EmployeeApp.PresentationLayer.csprojAssemblyReference.cache
+D:\TrainingCap\Xtra\EmployeeApp\EmployeeApplication\EmployeeApp.PresentationLayer\obj\Debug\EmployeeApp.PresentationLayer.csproj.CoreCompileInputs.cache
+D:\TrainingCap\Xtra\EmployeeApp\EmployeeApplication\EmployeeApp.PresentationLayer\obj\Debug\EmployeeApp.PresentationLayer.csproj.CopyComplete
+D:\TrainingCap\Xtra\EmployeeApp\EmployeeApplication\EmployeeApp.PresentationLayer\obj\Debug\EmployeeApp.PresentationLayer.exe
+D:\TrainingCap\Xtra\EmployeeApp\EmployeeApplication\EmployeeApp.PresentationLayer\obj\Debug\EmployeeApp.PresentationLayer.pdb

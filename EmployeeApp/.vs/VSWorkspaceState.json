@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\EmployeeApp.BusinessLayer",
+    "\\EmployeeApp.DataAccessLayer",
+    "\\EmployeeApp.Entities",
+    "\\EmployeeApp.Exceptions",
+    "\\EmployeeApp.PresentationLayer"
+  ],
+  "SelectedNode": "\\EmployeeApp.sln",
+  "PreviewInSolutionExplorer": false
+}
