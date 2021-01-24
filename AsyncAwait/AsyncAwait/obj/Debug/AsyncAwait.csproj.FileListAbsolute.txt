@@ -1,0 +1,7 @@
+D:\CAPGEMINI\AsyncAwait\AsyncAwait\bin\Debug\AsyncAwait.exe.config
+D:\CAPGEMINI\AsyncAwait\AsyncAwait\bin\Debug\AsyncAwait.exe
+D:\CAPGEMINI\AsyncAwait\AsyncAwait\bin\Debug\AsyncAwait.pdb
+D:\CAPGEMINI\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait.csprojAssemblyReference.cache
+D:\CAPGEMINI\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait.csproj.CoreCompileInputs.cache
+D:\CAPGEMINI\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait.exe
+D:\CAPGEMINI\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait.pdb

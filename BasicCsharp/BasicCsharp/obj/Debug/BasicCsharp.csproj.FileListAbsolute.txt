@@ -1,0 +1,7 @@
+C:\Users\KIIT\source\repos\BasicCsharp\BasicCsharp\bin\Debug\BasicCsharp.exe.config
+C:\Users\KIIT\source\repos\BasicCsharp\BasicCsharp\bin\Debug\BasicCsharp.exe
+C:\Users\KIIT\source\repos\BasicCsharp\BasicCsharp\bin\Debug\BasicCsharp.pdb
+C:\Users\KIIT\source\repos\BasicCsharp\BasicCsharp\obj\Debug\BasicCsharp.csprojAssemblyReference.cache
+C:\Users\KIIT\source\repos\BasicCsharp\BasicCsharp\obj\Debug\BasicCsharp.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\source\repos\BasicCsharp\BasicCsharp\obj\Debug\BasicCsharp.exe
+C:\Users\KIIT\source\repos\BasicCsharp\BasicCsharp\obj\Debug\BasicCsharp.pdb
